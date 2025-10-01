@@ -1,6 +1,6 @@
 # NFTs
 Introduction to NFTs
 Trade one
-Sell
+Sell one
 Offer
 Cancel
