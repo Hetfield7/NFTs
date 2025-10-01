@@ -3,6 +3,6 @@ MARKETPLACE:
 OPENSEA - MAGIC EDEN - ELEMENT MARKETPLACE- BLUR - 
 Introduction to NFTs
 Trade OFFER
-Sell one
+Sell unity
 Offer
 Cancel
