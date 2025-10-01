@@ -1,6 +1,6 @@
 # NFTs
 Platforms:
-OPENSEA - MAGIC EDEN - ELEMENT MARKET- BLUR - 
+OPENSEA - MAGIC EDEN - ELEMENT MARKETPLACE- BLUR - 
 Introduction to NFTs
 Trade one
 Sell one
