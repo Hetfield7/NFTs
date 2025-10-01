@@ -1,6 +1,6 @@
 # NFTs
 Platforms:
-OPENSEA
+OPENSEA - MAGIC 
 Introduction to NFTs
 Trade one
 Sell one
