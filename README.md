@@ -1,3 +1,4 @@
 # NFTs
 Introduction to NFTs
-Trade
+Trade 
+Sell
