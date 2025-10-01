@@ -3,3 +3,4 @@ Introduction to NFTs
 Trade 
 Sell
 Offer
+Cancel
